@@ -16,8 +16,8 @@ __2nd Guest Of Honour :- SH.Ravinder Garg__ (Chief Engg. at Municipal Corporatio
 __English proficiency test__  (Readig - comprehension, Writting- letter writting + email writting, Grammar) - [ME Sem hall]    
 __Maths proficiency test__ (Basic maths) - [ME Sem hall]  
 __2 Guest lectures:-__  
-__Expert lecture by DR. Arashdeep Singh on "FOOD: A PIVOTAL ROLE IN STUDENTS'S OVERALL WELLNESS"__ - [Auditorium]     
-__SESSION BY CAUSMIC CLUB AND LAUNCH OF INDUCTION ACTIVITIES__ - [AUDITORIUM]
+__Expert lecture by DR. Arashdeep Singh on "Food: A Pivotal Role In Student's Overall Wellness"__ - [Auditorium]     
+__Session by Causmic Club and launch of Induction activities__ - [AUDITORIUM]
 
 ## Day 3
 __Expert lecture by Dr. Jaswinder Singh (Incharge IAPT)__ - [Auditorium]  
