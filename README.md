@@ -37,3 +37,22 @@ In the latter half, **Dr. Priya Darshani** returned for a continuation of her se
 This day focused on academic preparedness and technical skills. We began with a **P2P (Peer-to-Peer) learning session**, where we were introduced to the fundament+-als of **programming in C++**. We learned about basic concepts like **data types, variables, input/output syntax**, and the structure of a simple program. This session helped build a strong foundation for students new to coding and made programming feel accessible and interesting.
 
 Following this, we attended a **BEEE (Basic Electrical and Electronics Engineering)** lecture by **Prof. Simranjeet Kaur** from the ECE department, where we explored introductory electrical concepts that are essential for engineering students. The day concluded with a **Mathematics lecture by Prof. Sukhminder Singh**, which provided clarity on mathematical thinking and problem-solving approaches that will be vital in upcoming coursework.
+
+---
+
+## 📅 Day 6
+
+The sixth day of the induction programme began with an engaging __Mathematics lecture by Prof. Sukminder Singh__ in the ME Seminar Hall. The session focused on 2D and 3D applications in mathematics, including graph plotting and their practical use in engineering contexts. This was followed by a Basic Electrical and Electronics Engineering __(BEEE) lecture delivered by Prof. Simranjeet Kaur (ECE)__ in the same venue, which introduced fundamental concepts in electrical circuits and components. 
+
+Later, a series of expert sessions were held in the auditorium, beginning with __Dr. Arvind Dhingra__, Director of STEP and Incharge of TAC, who emphasized the role of innovation and entrepreneurship in technical education. __Mr. Jasvir Singh Sekhon__, the District Resource Person for STEM, delivered an insightful expert talk encouraging students to explore science, technology, engineering, and math with a practical approach. The day concluded with a __lecture by Dr. Lakhvir Singh Khana__, Incharge of CML, who introduced various student resources and facilities available under the Centralized Management Lab.
+
+---
+
+## 📅 Day 7
+
+The seventh day continued with a lecture in the auditorium by __Dr. Amit Kamra__, Incharge of the Digital Marketing Club (DMC), who presented an overview of digital marketing trends, essential skills, and future opportunities in the field. Following this, __Dr. Parminder Singh__, Dean of Student Welfare, addressed the students regarding support systems, campus life, and student engagement activities. __Dr. Randhir Singh__ then conducted a session on __"Conduct of Examination"__, providing essential information on examination protocols, academic integrity, and evaluation processes. 
+
+After the auditorium sessions, students attended a __P2P (Peer-to-Peer) lecture__ held in the Workshop Seminar Hall, where they learned about basic programming concepts, including operators, conditional statements like "if-else," and logical flow in coding—encouraging hands-on practice and interactive learning. The day concluded with a __Chemistry lecture by Prof. Karan Bhalla__, where he introduced the water chemistry chapter.
+
+---
+
